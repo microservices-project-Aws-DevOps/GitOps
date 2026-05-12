@@ -29,7 +29,7 @@ spec:
             - ALL
           privileged: false
           readOnlyRootFilesystem: true
-        image: manojkrishnappa/adservice:09c365a668171f643477a72b08bccfc4da6fcbdf
+        image: vrushal5577/adservice:09c365a668171f643477a72b08bccfc4da6fcbdf
         ports:
         - containerPort: 9555
         env:
