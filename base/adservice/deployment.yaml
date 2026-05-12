@@ -29,7 +29,7 @@ spec:
             - ALL
           privileged: false
           readOnlyRootFilesystem: true
-        image: vrushal5577/adservice:09c365a668171f643477a72b08bccfc4da6fcbdf
+        image: vrushal5577/adservice:5f753f2d06c06c2789788e4743949d0a3670f6c7
         ports:
         - containerPort: 9555
         env:
